@@ -19,7 +19,7 @@ p {
 .submit-button {
     font-family: 'Source Sans 3', sans-serif;
     border-radius: 20px;
-    border: 0px solid grey;
+    border: 0px solid blue;
     padding-right: 16px;
     padding-left: 16px;
     color: rgb(90, 167, 218);
